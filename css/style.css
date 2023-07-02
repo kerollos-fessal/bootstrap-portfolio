@@ -203,6 +203,10 @@ header .custom-icon:hover{
     background-image: url(../images/dots.png);
 }
 
+#about .shadows{
+    box-shadow: inset  0px 6px 7px rgb(197, 195, 195);
+}
+
 
 #about span{
     color: #999;
